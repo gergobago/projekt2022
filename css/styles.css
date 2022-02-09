@@ -5,14 +5,15 @@
 }
 
 body{
-    background-image: url(../images/hacker.jpg);
+    background-image: url(../images/hacker.png);
+    background-size: 100%;
     font-family: Arial;
     font-size: 100%;
-    color: rgb(0, 180, 0);
+    color: rgb(49, 111, 245);
 }
 
 a{
-    color: rgb(0, 180, 0);
+    color: rgb(49, 111, 245);
 }
 
 div.clear{
@@ -29,22 +30,22 @@ header{
     font-weight: bold;
     font-family: "trebuchet MS";
     text-shadow: 2px 2px 2px  rgb(0, 0, 0);
-    color: rgb(0, 180, 0);
+    color: rgb(49, 111, 245);
 }
 
 header span{
-    color: rgb(0, 180, 0);;
+    color: rgb(49, 111, 245);;
 }
 
 nav{
     padding: 10px 0;
     margin: 20px 0;
-    color: rgb(0, 180, 0);
+    color: rgb(49, 111, 245);
     background: rgba(0, 0, 0, 0.5);
 }
 
 nav a{
-    color:  rgb(0, 180, 0);
+    color:  rgb(49, 111, 245);
     margin: 0 10px;
     text-decoration: none;
     font-family: "trebuchet MS";
@@ -79,7 +80,7 @@ section article{
 section article h1{
     margin: 0 0 10px 0;
     font-size: 150%;
-    color: rgb(0, 180, 0);
+    color: rgb(49, 111, 245);
     text-shadow: 2px 2px 2px black;
     box-shadow: rgba(0, 0, 0, 1);
     font-family: "trebuchet MS";
@@ -90,7 +91,7 @@ section article p{
     line-height: 140%;
     font-size: 85%;
     font-variant-alternates: 85%;
-    color:  rgb(0, 140, 0);
+    color:  rgb(49, 111, 245);
     background: rgba(0, 0, 0, 0.5);
 }
 
@@ -109,7 +110,7 @@ figure figcaption{
     font-style: italic;
     font-size: 100%;
     margin: 6px 0 0 0;
-    color: rgb(0, 180, 0);
+    color: rgb(49, 111, 245);
 }
 
 footer{
@@ -150,6 +151,7 @@ and (max-width:480px)
 and (min-width:240px)
 and (max-width:320px)
 {
+
     div#wrapper{width:300px}
     header{font-size:100%;text-align: center}
     header span{display: block}
