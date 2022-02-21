@@ -11,6 +11,12 @@ body{
     color: rgb(49, 111, 245);
 }
 
+h2{
+    font-family: Arial;
+    font-size: 100%;
+    color: rgb(49, 111, 245);
+}
+
 a{
     color: rgb(49, 111, 245);
 }
