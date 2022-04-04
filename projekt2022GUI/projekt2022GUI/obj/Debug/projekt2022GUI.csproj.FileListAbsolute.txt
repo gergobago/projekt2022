@@ -1,0 +1,10 @@
+E:\Bagó Gergő\HTML5\projekt2022\projekt2022GUI\projekt2022GUI\bin\Debug\projekt2022GUI.exe.config
+E:\Bagó Gergő\HTML5\projekt2022\projekt2022GUI\projekt2022GUI\bin\Debug\projekt2022GUI.exe
+E:\Bagó Gergő\HTML5\projekt2022\projekt2022GUI\projekt2022GUI\bin\Debug\projekt2022GUI.pdb
+E:\Bagó Gergő\HTML5\projekt2022\projekt2022GUI\projekt2022GUI\obj\Debug\projekt2022GUI.csproj.AssemblyReference.cache
+E:\Bagó Gergő\HTML5\projekt2022\projekt2022GUI\projekt2022GUI\obj\Debug\projekt2022GUI.Form1.resources
+E:\Bagó Gergő\HTML5\projekt2022\projekt2022GUI\projekt2022GUI\obj\Debug\projekt2022GUI.Properties.Resources.resources
+E:\Bagó Gergő\HTML5\projekt2022\projekt2022GUI\projekt2022GUI\obj\Debug\projekt2022GUI.csproj.GenerateResource.cache
+E:\Bagó Gergő\HTML5\projekt2022\projekt2022GUI\projekt2022GUI\obj\Debug\projekt2022GUI.csproj.CoreCompileInputs.cache
+E:\Bagó Gergő\HTML5\projekt2022\projekt2022GUI\projekt2022GUI\obj\Debug\projekt2022GUI.exe
+E:\Bagó Gergő\HTML5\projekt2022\projekt2022GUI\projekt2022GUI\obj\Debug\projekt2022GUI.pdb
